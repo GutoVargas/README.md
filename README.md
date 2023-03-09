@@ -1,5 +1,5 @@
 # README.md
-Ola, sou estudante de Ciência da Computação pela Faculdade de Desenvolvimento do Rio Grande do Sul - FADERGS.
+Ola, sou estudante de programação a alguns anos, atualmente estou focado em PHP e iniciando com Laravel.
 
 Minha área é um pouco mais voltada a Backend, todavia estou começando a me adaptar a jornada de Full Stack.
 
