@@ -1,5 +1,5 @@
 # README.md
-Ola, sou estudante de programação a alguns anos, atualmente estou focado em PHP e iniciando com Laravel.
+Ola, sou estudante de programação a alguns anos, atualmente estou focado em PHP e Node.JS.
 
 Minha área é um pouco mais voltada a Backend, todavia estou começando a me adaptar a jornada de Full Stack.
 
